@@ -1,0 +1,14 @@
+shed -ns hl7demo get HL7Demo.Data.Allergens.cls > HL7Demo.Data.Allergens.cls
+shed -ns hl7demo get HL7Demo.Data.CMS30DX.cls > HL7Demo.Data.CMS30DX.cls
+shed -ns hl7demo get HL7Demo.Data.CommomLabOrders.cls > HL7Demo.Data.CommomLabOrders.cls
+shed -ns hl7demo get HL7Demo.Data.CommonLabOrders.cls > HL7Demo.Data.CommonLabOrders.cls
+shed -ns hl7demo get HL7Demo.Data.CommonLabResults.cls > HL7Demo.Data.CommonLabResults.cls
+shed -ns hl7demo get HL7Demo.Data.FacilityQM.cls > HL7Demo.Data.FacilityQM.cls
+shed -ns hl7demo get HL7Demo.Data.Medications.cls > HL7Demo.Data.Medications.cls
+shed -ns hl7demo get HL7Demo.Data.People.cls > HL7Demo.Data.People.cls
+shed -ns hl7demo get HL7Demo.Data.Providers.cls > HL7Demo.Data.Providers.cls
+shed -ns hl7demo get HL7Demo.Data.VitalSignResultCodes.cls > HL7Demo.Data.VitalSignResultCodes.cls
+shed -ns hl7demo get HL7Demo.MsgSender.cls > HL7Demo.MsgSender.cls
+shed -ns hl7demo get HL7Demo.PeopleDataLoader.cls > HL7Demo.PeopleDataLoader.cls
+shed -ns hl7demo get HL7Demo.Test1.cls > HL7Demo.Test1.cls
+shed -ns hl7demo get HL7Demo.Util.cls > HL7Demo.Util.cls
